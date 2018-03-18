@@ -3,7 +3,7 @@
 1. Setup the docker container for Tensorflow 1.6
 
 ```
-sudo docker run -it -d -v `pwd`:/notebooks tensorflow/tensorflow:1.2.0 /bin/bash
+sudo docker run -it -d -v `pwd`:/notebooks tensorflow/tensorflow:1.6.0 /bin/bash
 ```
 
 
