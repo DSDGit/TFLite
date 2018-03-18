@@ -109,3 +109,6 @@ apt-get install google-cloud-sdk
 gcloud init
 ```
 
+
+
+https://docs.google.com/forms/d/1FSYrE9H7J6gTBzdzUyfAGGPAerKZcqqzu7hOADsmXjM
